@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Moviecard from "./components/Moviecard";
 import axios from "axios";
 import imdbLogo from "./IMDB_Logo_2016.svg";
+import { Link } from "react-router-dom";
 
 import logo from "./logo.svg";
 import "./App.css";
